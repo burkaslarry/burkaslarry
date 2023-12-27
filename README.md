@@ -34,9 +34,14 @@
 
 [![burkaslarry's GitHub | Stats](https://stats.quine.sh/burkaslarry/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=burkaslarry)
 
+
+<h3 align="left">Github Activities</h3>
+
+
 [![burkaslarry's GitHub | Topics Over Time](https://stats.quine.sh/burkaslarry/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=burkaslarry)
 
 [![burkaslarry's GitHub | Languages Over Time](https://stats.quine.sh/burkaslarry/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=burkaslarry)
+
 
 
 
