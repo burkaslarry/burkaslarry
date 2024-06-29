@@ -5,23 +5,17 @@
 
 <h3 align="left">Github Summary</h3>
 
-[![burkaslarry's GitHub | Stats](https://stats.quine.sh/burkaslarry/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=burkaslarry)
+- 🔭 I’m currently learning LLM in working on [DeepLearning.ai](https://deeplearning.ai)
 
-- 🔭 I’m currently working on [Git Introduction Slides](https://github.com/burkaslarry/git_introduction)
-
-- 🌱 I’m currently learning **Rust, Solidity, LLM,**
-
-- 👯 I’m looking to collaborate on [UniSwaps](https://github.com/boringslav/uniswap-v2-clone)
-
-- 🤝 I’m looking for help with [Restful Rust connecting PostgreSQL](https://github.com/burkaslarry/DatabaseSerial)
+- 🌱 I’m currently learning **Python, JAVA SpringBoot, LLM,**
 
 - 👨‍💻 All of my projects are available at [https://larrywebsite.vercel.app](https://larrywebsite.vercel.app)
 
-- 💬 Ask me about **System Design, Mobile Apps Frameworks, Project Management, Flutter, DeFi challenges. LLM**
+- 💬 Ask me about **AI, System Design, Mobile Apps Frameworks, Project Management, Flutter. LLM**
 
 - 📫 How to reach me **larrythegreathk@protonmail.com**
 
-- 📄 Know about my experiences [https://larrywebsite.vercel.app](https://larrywebsite.vercel.app)
+- 📄 Know about my experiences [LinkedIn]([https://larrywebsite.vercel.app](https://www.linkedin.com/in/larry-lo-804a50165/))
 
 - ⚡ Fun fact **Love Gym, Hiking and Travel. I can speak German**
 
