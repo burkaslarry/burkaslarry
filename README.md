@@ -12,6 +12,16 @@
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/larry-lo-804a50165)
 - ⚡ Fun fact **Love Gym, Hiking and Travel. I can speak German**
 
+<h3 align="left">Community Leadership (社群領導)</h3>
+<p align="left">
+    Proud Organizer of <b>Google Developer Group Hong Kong (GDG HK)</b>. Passionate about fostering a vibrant tech community and sharing knowledge on AI, Cloud, and Mobile technologies.Further demonstrated leadership and organizational impact by leading non-IT community projects for <b>JCI Peninsula</b>.
+
+</p>
+
+- 📄 Know about GDG developer community and events in Hong Kong [LinkedIn Page](https://www.linkedin.com/company/82780792/)
+
+- 📄 Know about JCI Peninsula and events in Hong Kong [Instagram Page](https://www.instagram.com/jci_peninsula/)
+
 <h3 align="left">Core Competencies (核心能力展示)</h3>
 <p align="left">
     <!-- AI & Agentic Systems - 放在首位，證明轉型決心 -->
@@ -23,7 +33,7 @@
     <!-- 這裡可以加入 LangChain, LlamaIndex, CrewAI 等圖標，如果有的話 -->
 </p>
 
-<h4 align="left">Project Management & DevOps (項目管理與交付)</h4>
+<h4 align="left">Project Management & DevOps (項目管理與DevOps)</h4>
 <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
@@ -33,7 +43,7 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Core Development & Mobile (核心開發與移動端經驗)</h4>
+<h4 align="left">Core Development & Mobile (核心開發與移動程式開發經驗)</h4>
 <p align="left">
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
@@ -48,9 +58,6 @@
 <a href="https://instagram.com/larrythesoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="larrythesoul" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Stack Overflow Status:</h3>
-[[burkaslarry's Stack Overflow | Stats]]
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dSvjxMzUK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dSvjxMzUK" /></a><a href="https://ko-fi.com/naturallarry27491"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="naturallarry27491" /></a></p><br><br>
