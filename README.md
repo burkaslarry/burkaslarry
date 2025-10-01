@@ -7,9 +7,9 @@
 - 🚀 **Current Mission:** Leveraging 13+ years of Project Management and Agile expertise to lead the implementation of **Agentic AI** and **LLM-driven solutions** that deliver measurable business value.
 - 🛠️ **Deep Dive:** Actively exploring and building with **LangChain, LlamaIndex, CrewAI** to create autonomous, multi-agent systems.
 - 💬 **Ask me about:** **AI Project Management Strategy, LLM Deployment Risks, Agile Transformation, System Architecture, and Flutter.**
-- 👨‍💻 All of my projects are available at [https://larrywebsite.vercel.app]
+- 👨‍💻 All of my projects are available at [https://innovatexp.co]
 - 📫 How to reach me **larrythegreathk@protonmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/larrylo)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/larry-lo-804a50165)
 - ⚡ Fun fact **Love Gym, Hiking and Travel. I can speak German**
 
 <h3 align="left">Core Competencies (核心能力展示)</h3>
