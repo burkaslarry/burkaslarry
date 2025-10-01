@@ -11,6 +11,7 @@
 - 📫 How to reach me **larrythegreathk@protonmail.com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/larry-lo-804a50165)
 - ⚡ Fun fact **Love Gym, Hiking and Travel. I can speak German**
+- 📄 Know about AI Application Tools and Assistant  [AI 應用程式一覽：核心功能與連結](https://www.notion.so/AI-d437ce2b0a02427891d5085c88c03525?source=copy_link)
 
 <h3 align="left">Community Leadership (社群領導)</h3>
 <p align="left">
