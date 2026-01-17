@@ -43,12 +43,11 @@
 
 <h3 align="left">Certifications & Awards (專業認證與榮譽)</h3>
 <ul>
-    <li>**AWS APJ COMMUNITY LEADERS AWARDS 2025 - AWS Hero of the Year** (9-year AWS Hero)</li>
     <li>Generative AI with Large Language Models (DeepLearning.AI, Amazon Web Services)</li>
     <li>Gemini Certified Educator (Google for Education)</li>
     <li>Team Kanban Practitioner (Kanban University)</li>
     <li>ICAgile Certified Professional - Agile Coaching (ICAgile)</li>
-    <li>ITIL Foundation Level (PeopleCert)</li>
+    <li>ITIL Foundation Level</li>
     <li>Certified SAFe® Architect, Scrum Master, Agilist, Product Owner / Product Manager (Scaled Agile, Inc.)</li>
 </ul>
 
