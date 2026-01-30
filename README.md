@@ -27,7 +27,7 @@ At InnovateXP Limited, we develop AI-driven solutions to help businesses innovat
 <ul>
 <li><b>AI × CRM:</b> Intelligent Customer Management System with AI Smart Draft, automated booking, and auto-tagging to eliminate missed orders.</li>
 <li><b>EventXP Check-in System:</b> BNI Anchor Check-in System featuring real-time attendee lists, QR code scanning, and automated statistics.</li>
-<li><b>AI Courses:</b> Practical AI training and enterprise customized courses, leveraging 200+ developer training experience.</li>
+<li><b>AI Courses/Consultation :</b> Practical AI training and enterprise customized courses, leveraging 200+ developer training experience.</li>
 <li><b>Track Record:</b> Proven success in high-risk environment systems for KMB / Government Projects and boosting user engagement by 100% in SME Projects.</li>
 </ul>
 
