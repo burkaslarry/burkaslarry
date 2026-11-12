@@ -17,7 +17,6 @@ In one client engagement, a process that took 10 days was cut to 3 hours.
 
 - **AI Solutions Architect**, Macroview Telecom (HGC Group), Hong Kong — enterprise generative AI implementation
 - Former organiser, [Google Developer Group Hong Kong](https://gdg.community.dev/) (until 2025)
-- Community leadership, JCI Peninsula
 
 ## Certifications
 
